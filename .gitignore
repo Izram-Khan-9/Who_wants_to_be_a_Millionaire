@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables
+*.env
+
+# macOS and Linux junk
+.DS_Store
+*.swp
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Python cache files
+*.pyo
+*.pyd
+
+# Test coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# MyPy / PyLint / Bandit
+.mypy_cache/
+.pytype/
+.cache/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Misc
+*.bak
+*.tmp
+
+# Personal notes or temporary files
+notes.txt
+*.old
